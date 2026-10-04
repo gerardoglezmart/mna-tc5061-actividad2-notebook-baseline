@@ -1,0 +1,9 @@
+# Archivos intermedios que el notebook regenera y que MLflow ya conserva
+artefactos/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
